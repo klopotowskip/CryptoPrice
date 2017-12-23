@@ -10,7 +10,7 @@
 
     <name>CryptoPrice</name>
     <description>Provides data about cryptocurrency prices and global data, such as MarketCap. It can also convert prices of cryptocurrencies to fiat currencies (and in opposite direction)</description>
-    <url>...</url>
+    <url>https://github.com/pietrek777/CryptoPrice</url>
 
     <repositories>
         <repository>
@@ -93,4 +93,9 @@
         </dependency>
     </dependencies>
 
+    <scm>
+        <connection>scm:git:git@github.com:pietrek777/CryptoPrice.git</connection>
+        <developerConnection>scm:git:git@github.com:pietrek777/CryptoPrice.git</developerConnection>
+        <url>git@github.com:IDRSolutions/maven-FooBar-src.git</url>
+    </scm>
 </project>
