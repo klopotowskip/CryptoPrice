@@ -139,4 +139,5 @@
         <developerConnection>scm:git:git@github.com:pietrek777/CryptoPrice.git</developerConnection>
         <url>git@github.com:IDRSolutions/maven-FooBar-src.git</url>
     </scm>
+    
 </project>
