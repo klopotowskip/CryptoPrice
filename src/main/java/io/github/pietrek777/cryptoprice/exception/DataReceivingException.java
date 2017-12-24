@@ -1,4 +1,4 @@
-package com.github.pietrek777.cryptoprice.exception;
+package io.github.pietrek777.cryptoprice.exception;
 
 /**
  * Thrown, while receiving data from server was impossible for some reason (e.g. no internet connection, API data was non-parsable).

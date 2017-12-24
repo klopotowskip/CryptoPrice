@@ -1,9 +1,9 @@
-package com.github.pietrek777.cryptoprice.dao;
+package io.github.pietrek777.cryptoprice.dao;
 
-import com.github.pietrek777.cryptoprice.exception.DataReceivingException;
-import com.github.pietrek777.cryptoprice.model.FiatCurrency;
-import com.github.pietrek777.cryptoprice.model.Coin;
-import com.github.pietrek777.cryptoprice.util.CmcApiDataProvider;
+import io.github.pietrek777.cryptoprice.exception.DataReceivingException;
+import io.github.pietrek777.cryptoprice.model.FiatCurrency;
+import io.github.pietrek777.cryptoprice.model.Coin;
+import io.github.pietrek777.cryptoprice.util.CmcApiDataProvider;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 

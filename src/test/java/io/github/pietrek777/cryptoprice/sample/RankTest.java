@@ -1,8 +1,8 @@
-package com.github.pietrek777.cryptoprice.sample;
+package io.github.pietrek777.cryptoprice.sample;
 
-import com.github.pietrek777.cryptoprice.dao.CmcRankDAO;
-import com.github.pietrek777.cryptoprice.dao.RankDAO;
-import com.github.pietrek777.cryptoprice.model.Coin;
+import io.github.pietrek777.cryptoprice.dao.CmcRankDAO;
+import io.github.pietrek777.cryptoprice.dao.RankDAO;
+import io.github.pietrek777.cryptoprice.model.Coin;
 import org.junit.Test;
 
 import java.util.List;

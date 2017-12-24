@@ -1,11 +1,11 @@
-package com.github.pietrek777.cryptoprice.sample;
+package io.github.pietrek777.cryptoprice.sample;
 
-import com.github.pietrek777.cryptoprice.exception.DataReceivingException;
-import com.github.pietrek777.cryptoprice.model.FiatCurrency;
-import com.github.pietrek777.cryptoprice.dao.CmcGlobalDataDAO;
-import com.github.pietrek777.cryptoprice.dao.GlobalDataDAO;
-import com.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
-import com.github.pietrek777.cryptoprice.model.GlobalData;
+import io.github.pietrek777.cryptoprice.exception.DataReceivingException;
+import io.github.pietrek777.cryptoprice.model.FiatCurrency;
+import io.github.pietrek777.cryptoprice.dao.CmcGlobalDataDAO;
+import io.github.pietrek777.cryptoprice.dao.GlobalDataDAO;
+import io.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
+import io.github.pietrek777.cryptoprice.model.GlobalData;
 import org.junit.Test;
 
 public class GlobalDataTest {

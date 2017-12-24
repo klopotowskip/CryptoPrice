@@ -1,4 +1,4 @@
-package com.github.pietrek777.cryptoprice.model;
+package io.github.pietrek777.cryptoprice.model;
 
 import java.util.Arrays;
 import java.util.Optional;

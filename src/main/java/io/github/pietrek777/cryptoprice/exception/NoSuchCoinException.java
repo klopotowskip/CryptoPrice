@@ -1,4 +1,4 @@
-package com.github.pietrek777.cryptoprice.exception;
+package io.github.pietrek777.cryptoprice.exception;
 
 /**
  * Thrown, when cryptocurrency name is invalid

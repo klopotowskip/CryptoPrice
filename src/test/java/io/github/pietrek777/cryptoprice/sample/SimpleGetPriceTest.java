@@ -1,10 +1,10 @@
-package com.github.pietrek777.cryptoprice.sample;
+package io.github.pietrek777.cryptoprice.sample;
 
-import com.github.pietrek777.cryptoprice.dao.CmcPriceDAO;
-import com.github.pietrek777.cryptoprice.dao.PriceDAO;
-import com.github.pietrek777.cryptoprice.model.DetailedCoinData;
-import com.github.pietrek777.cryptoprice.model.FiatCurrency;
-import com.github.pietrek777.cryptoprice.model.Coin;
+import io.github.pietrek777.cryptoprice.dao.CmcPriceDAO;
+import io.github.pietrek777.cryptoprice.dao.PriceDAO;
+import io.github.pietrek777.cryptoprice.model.DetailedCoinData;
+import io.github.pietrek777.cryptoprice.model.FiatCurrency;
+import io.github.pietrek777.cryptoprice.model.Coin;
 import org.junit.Test;
 
 public class SimpleGetPriceTest {

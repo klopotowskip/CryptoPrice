@@ -5,4 +5,4 @@
  * @author pietrek777
  *
  */
-package com.github.pietrek777.cryptoprice.dao;
+package io.github.pietrek777.cryptoprice.dao;

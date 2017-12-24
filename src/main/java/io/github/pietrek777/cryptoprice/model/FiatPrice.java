@@ -1,9 +1,9 @@
-package com.github.pietrek777.cryptoprice.model;
+package io.github.pietrek777.cryptoprice.model;
 
-import com.github.pietrek777.cryptoprice.dao.CmcPriceDAO;
-import com.github.pietrek777.cryptoprice.dao.PriceDAO;
-import com.github.pietrek777.cryptoprice.exception.DataReceivingException;
-import com.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
+import io.github.pietrek777.cryptoprice.dao.CmcPriceDAO;
+import io.github.pietrek777.cryptoprice.dao.PriceDAO;
+import io.github.pietrek777.cryptoprice.exception.DataReceivingException;
+import io.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
 
 import java.math.BigDecimal;
 

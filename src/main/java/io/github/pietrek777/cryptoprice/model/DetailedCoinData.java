@@ -1,4 +1,4 @@
-package com.github.pietrek777.cryptoprice.model;
+package io.github.pietrek777.cryptoprice.model;
 
 import javax.annotation.Nullable;
 import java.math.BigDecimal;

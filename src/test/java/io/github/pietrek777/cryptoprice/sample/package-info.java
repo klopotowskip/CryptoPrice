@@ -3,4 +3,4 @@
  *
  * @author pietrek777
  */
-package com.github.pietrek777.cryptoprice.sample;
+package io.github.pietrek777.cryptoprice.sample;

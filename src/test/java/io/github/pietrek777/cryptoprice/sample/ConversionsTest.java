@@ -1,10 +1,10 @@
-package com.github.pietrek777.cryptoprice.sample;
+package io.github.pietrek777.cryptoprice.sample;
 
-import com.github.pietrek777.cryptoprice.exception.DataReceivingException;
-import com.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
-import com.github.pietrek777.cryptoprice.model.CryptoPrice;
-import com.github.pietrek777.cryptoprice.model.FiatCurrency;
-import com.github.pietrek777.cryptoprice.model.FiatPrice;
+import io.github.pietrek777.cryptoprice.exception.DataReceivingException;
+import io.github.pietrek777.cryptoprice.exception.NoSuchCoinException;
+import io.github.pietrek777.cryptoprice.model.CryptoPrice;
+import io.github.pietrek777.cryptoprice.model.FiatCurrency;
+import io.github.pietrek777.cryptoprice.model.FiatPrice;
 import org.junit.Test;
 
 public class ConversionsTest {

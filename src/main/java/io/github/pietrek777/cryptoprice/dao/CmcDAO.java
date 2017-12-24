@@ -1,7 +1,6 @@
-package com.github.pietrek777.cryptoprice.dao;
+package io.github.pietrek777.cryptoprice.dao;
 
-import com.github.pietrek777.cryptoprice.model.*;
-import me.pietrek777.cryptoprice.model.*;
+import io.github.pietrek777.cryptoprice.model.*;
 import org.json.simple.JSONObject;
 
 /**
