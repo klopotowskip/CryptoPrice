@@ -10,7 +10,7 @@ import org.json.simple.parser.ParseException;
 
 /**
  * Implementation of {@link ApiDataProvider} for CoinMarketCap API.
- * Use it, if you want pure JSON objects from API. Unless use classes from {@link me.pietrek777.cryptoprice.dao} package
+ * Use it, if you want pure JSON objects from API. Unless use classes from {@link io.github.pietrek777.cryptoprice.dao} package
  *
  * @author pietrek777
  *

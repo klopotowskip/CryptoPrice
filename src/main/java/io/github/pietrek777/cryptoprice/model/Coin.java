@@ -110,7 +110,7 @@ public class Coin {
     @Override
     public String toString() {
         return getRank() + ". " + getName()
-                + " – price: " + getConvertedFiatPrice()
+                + " - price: " + getConvertedFiatPrice()
                 + ", BTC price: " + getBtcPrice()
                 + ", 24h change: " + getPercentChange24h();
     }
